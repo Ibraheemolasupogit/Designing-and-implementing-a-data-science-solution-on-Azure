@@ -9,7 +9,7 @@ You can use the Python SDK to perform all of the tasks required to create and op
 
 In this exercise, you'll run multiple scripts as a pipeline job.
 
-## Before you start
+## Before you start 
 
 You'll need an [Azure subscription](https://azure.microsoft.com/free?azure-portal=true) in which you have administrative-level access.
 
