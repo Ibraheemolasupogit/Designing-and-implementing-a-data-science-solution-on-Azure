@@ -87,7 +87,7 @@ Demonstrated integration of LLM-based reasoning and prompt design into Azure ML 
 
 ---
 
-## 📚 Learning Outcomes  
+## Skills  
 
 - Designed reproducible **data science workflows** on Azure  
 - Applied **MLOps practices** for training, tracking, and deployment  
