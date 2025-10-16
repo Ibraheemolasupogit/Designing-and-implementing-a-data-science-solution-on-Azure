@@ -1,3 +1,12 @@
+# 🧠 DP-100: Designing and Implementing a Data Science Solution on Azure  
+
+This repository contains **practical lab exercises and implementations** completed through the **DP-100 learning path**.  
+It demonstrates **end-to-end Azure Machine Learning workflows** for data preparation, model training, deployment, and monitoring within the **Azure ecosystem**.  
+
+📂 **Explore the Project:**  
+- View all lab notebooks in the **[Projects](./Projects)** folder  
+- See lab progress and results in the **[Screenshots](./Screenshots)** folder  
+
 ## 🧩 Overview  
 Hands-on experience building and operationalizing data science solutions using:
 
