@@ -5,7 +5,7 @@ It demonstrates **end-to-end Azure Machine Learning workflows** for data prepara
 
 📂 **Explore the Project:**  
 - View all lab notebooks in the **[Projects](./Projects)** folder  
-- See lab progress and results in the **[Lab Screenshots](./lab_screenshot)** folder  
+- See lab progress and results in the **[Lab Screenshots](./lab_screenshots)** folder  
 
 ## 🧩 Overview  
 Hands-on experience building and operationalizing data science solutions using:
